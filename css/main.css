@@ -1,4 +1,100 @@
-* {
+body {
+  background-color: #111111;
+}
+
+#header {
+  background-color: #181818;
+  border-bottom: 1px solid #232323;
+  margin-top: 16px;
+}
+
+#header .button {
+  padding: 0.1em 0.5rem;
+}
+
+#header .button.large {
+  top: 0;
+}
+
+#header .button.large i {
+  line-height: 0.5;
+}
+
+#header a {
   color: #fff;
-  background-color: black;
+}
+
+#header #searchBar input {
+  padding: 0.1em;
+}
+
+#header #searchBar #searchSubmit {
+  padding: 0.1em 1em;
+  background-color: gray;
+}
+
+#header #searchBar #searchSubmit i {
+  background-color: transparent;
+  color: #232323;
+}
+
+#sideBar {
+  background-color: #181818;
+  border-right: 1px solid #232323;
+  width: 240px;
+}
+
+#sideBar .button {
+  margin: 0;
+}
+
+#sideBar a {
+  text-align: left;
+  color: #fff;
+}
+
+#sideBar a i {
+  padding-right: 1em;
+}
+
+#sideBar h5 {
+  color: #fff;
+  font-size: 0.75rem;
+  padding-left: 0.85em;
+  padding-top: 1rem;
+}
+
+#sideBar #footer {
+  font-size: 0.75rem;
+  padding-left: 1rem;
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+}
+
+#sideBar #footer a {
+  padding-right: 0.75rem;
+}
+
+#contents .card {
+  width: 210px;
+  color: #fff;
+  border: none;
+  display: inline-block;
+}
+
+#contents .card img {
+  height: 118px;
+}
+
+#contents .card h5 {
+  font-size: 1rem;
+}
+
+#contents .card p {
+  font-size: 0.75rem;
+  margin-bottom: 0;
+}
+
+#contents .card p.chName {
+  color: #00adee;
 }

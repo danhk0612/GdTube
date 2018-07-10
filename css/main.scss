@@ -1,4 +1,92 @@
-* {
-    color:#fff;
-    background-color: black;
+$baseColor : #fff;
+$baseBgColor : #111111;
+$anotherBgColor : #181818;
+
+body {
+    background-color: $baseBgColor;
+}
+
+#header {
+    background-color: $anotherBgColor;
+    border-bottom: 1px solid #232323;
+    margin-top: 16px;
+    .button {
+        padding: 0.1em 0.5rem;
+        &.large {
+            top: 0;
+            i {
+                line-height: 0.5;
+            }
+        }
+    }
+    a {
+        color: $baseColor;
+    }
+    #searchBar {
+        input {
+            padding: 0.1em;
+        }
+        #searchSubmit {
+            padding: 0.1em 1em;
+            background-color: gray;
+            i {
+                background-color: transparent;
+                color: #232323;
+            }
+        }
+    }
+}
+
+#sideBar {
+    background-color: $anotherBgColor;
+    border-right: 1px solid #232323;
+    width: 240px;
+    .button {
+        margin: 0;
+    }
+    a {
+        text-align: left;
+        color: $baseColor;
+        i {
+            padding-right: 1em;
+        }
+    }
+    h5 {
+        color: $baseColor;
+        font-size: 0.75rem;
+        padding-left: 0.85em;
+        padding-top: 1rem;
+        
+    }
+    #footer {
+        font-size: 0.75rem;
+        padding-left: 1rem;
+        padding-top: 1rem;
+        padding-bottom: 2rem;
+        a {
+            padding-right: 0.75rem;
+        }
+    }
+}
+
+#contents {
+    .card {
+        width: 210px;
+        color: $baseColor;
+        border: none;
+        display: inline-block;
+        img {
+            height: 118px;
+        }
+        h5 {
+            font-size: 1rem;
+        }
+        p {
+            font-size: 0.75rem;
+            margin-bottom: 0;
+            &.chName {
+                color: rgb(0, 173, 238);
+            }
+        }
+    }
 }

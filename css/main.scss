@@ -1,15 +1,24 @@
 $baseColor : #fff;
 $baseBgColor : #111111;
 $anotherBgColor : #181818;
+$baseBorderColor : #232323;
 
 body {
     background-color: $baseBgColor;
+    overflow-x: hidden;
 }
 
 #header {
     background-color: $anotherBgColor;
-    border-bottom: 1px solid #232323;
-    margin-top: 16px;
+    border-bottom: 1px solid $baseBorderColor;
+    padding-top: 16px;
+    position: relative;
+    #logoImg {
+        position: absolute;
+        top: .75rem;
+        width: 150px;
+        height: 30px;
+    }
     .button {
         padding: 0.1em 0.5rem;
         &.large {
@@ -31,7 +40,7 @@ body {
             background-color: gray;
             i {
                 background-color: transparent;
-                color: #232323;
+                color: $baseBorderColor;
             }
         }
     }
@@ -39,7 +48,7 @@ body {
 
 #sideBar {
     background-color: $anotherBgColor;
-    border-right: 1px solid #232323;
+    border-right: 1px solid $baseBorderColor;
     width: 240px;
     .button {
         margin: 0;
@@ -66,27 +75,80 @@ body {
         a {
             padding-right: 0.75rem;
         }
+        .footerGroup {
+            padding-top: 1rem;
+            padding-bottom: 1rem;
+            word-break: keep-all;
+        }
     }
 }
 
 #contents {
-    .card {
-        width: 210px;
-        color: $baseColor;
-        border: none;
-        display: inline-block;
-        img {
-            height: 118px;
+    .videoGroup {
+        width: 1310px;
+        overflow-x: hidden;
+        margin: 1rem auto;
+        padding-bottom: 1rem;
+        border-bottom: 1px solid $baseBorderColor;
+        position: relative;
+        span {
+            position: absolute;
+            border-radius: 1.5rem;
+            border: 1px solid #000;
+            color: #fff;
+            background-color: $anotherBgColor;
+            padding: 1rem;
+            top: 25%;
+            font-weight: bold;
+            &#arrowLeft {
+                left: .5rem;
+            }
+            &#arrowRight{
+                right: 1rem;
+            }
         }
         h5 {
-            font-size: 1rem;
+            color: $baseColor;
         }
-        p {
-            font-size: 0.75rem;
-            margin-bottom: 0;
-            &.chName {
-                color: rgb(0, 173, 238);
+        .card {
+            width: 210px;
+            color: $baseColor;
+            border: none;
+            display: inline-block;
+            margin: 0 .1rem;
+            .card-section {
+                background-color: $baseBgColor;
+            }
+            img {
+                height: 118px;
+            }
+            h5 {
+                font-size: 1rem;
+            }
+            p {
+                font-size: 0.75rem;
+                margin-bottom: 0;
+                &.chName {
+                    color: rgb(0, 173, 238);
+                }
             }
         }
     }
+
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+::-webkit-scrollbar-track {
+    background-color: $baseBgColor;
+}
+::-webkit-scrollbar-thumb {
+    background-color: #494949; 
+}
+::-webkit-scrollbar-button {
+    background-color: $baseBgColor;
+}
+::-webkit-scrollbar-corner {
+    background-color: $anotherBgColor;
 }

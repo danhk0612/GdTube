@@ -14,6 +14,6 @@
 - HTML
 - CSS (included CSS3 & SASS)
 - Javascript (included Jquery)
-- Foundation Front-end Framework 6
+- Foundation Front-end Framework 6 (Customized)
 
 ## Screenshot

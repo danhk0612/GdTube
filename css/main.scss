@@ -85,12 +85,17 @@ body {
 
 #contents {
     .videoGroup {
-        width: 1310px;
+        max-width: 1310px;
+        width: 100%;
         overflow-x: hidden;
         margin: 1rem auto;
         padding-bottom: 1rem;
         border-bottom: 1px solid $baseBorderColor;
         position: relative;
+        .videoInner {
+            width: 1310px;
+            position: relative;
+        }
         span {
             position: absolute;
             border-radius: 1.5rem;
@@ -100,10 +105,12 @@ body {
             padding: 1rem;
             top: 25%;
             font-weight: bold;
-            &#arrowLeft {
+            z-index: 99;
+            &.arrowLeft {
                 left: .5rem;
+                display: none;
             }
-            &#arrowRight{
+            &.arrowRight{
                 right: 1rem;
             }
         }

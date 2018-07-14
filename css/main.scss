@@ -84,63 +84,7 @@ body {
 }
 
 #contents {
-    .videoGroup {
-        max-width: 1310px;
-        width: 100%;
-        overflow-x: hidden;
-        margin: 1rem auto;
-        padding-bottom: 1rem;
-        border-bottom: 1px solid $baseBorderColor;
-        position: relative;
-        .videoInner {
-            width: 1310px;
-            position: relative;
-        }
-        span {
-            position: absolute;
-            border-radius: 1.5rem;
-            border: 1px solid #000;
-            color: #fff;
-            background-color: $anotherBgColor;
-            padding: 1rem;
-            top: 25%;
-            font-weight: bold;
-            z-index: 99;
-            &.arrowLeft {
-                left: .5rem;
-                display: none;
-            }
-            &.arrowRight{
-                right: 1rem;
-            }
-        }
-        h5 {
-            color: $baseColor;
-        }
-        .card {
-            width: 210px;
-            color: $baseColor;
-            border: none;
-            display: inline-block;
-            margin: 0 .1rem;
-            .card-section {
-                background-color: $baseBgColor;
-            }
-            img {
-                height: 118px;
-            }
-            h5 {
-                font-size: 1rem;
-            }
-            p {
-                font-size: 0.75rem;
-                margin-bottom: 0;
-                &.chName {
-                    color: rgb(0, 173, 238);
-                }
-            }
-        }
-    }
+
 
 }
 

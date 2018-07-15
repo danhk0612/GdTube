@@ -1,9 +1,9 @@
-$baseColor : #fff;
-$baseBgColor : #111111;
-$anotherBgColor : #181818;
-$baseBorderColor : #232323;
+$baseColor: #fff;
+$baseBgColor: #111111;
+$anotherBgColor: #181818;
+$baseBorderColor: #232323;
 
-#contents{
+#contents {
     margin-top: 2rem;
     margin-left: 5rem;
     padding: 0;
@@ -13,37 +13,46 @@ $baseBorderColor : #232323;
     #recentVideo {
         padding-bottom: 1rem;
     }
+
     #videoInfo {
         border-bottom: 1px solid $baseBorderColor;
         width: 100%;
         height: 42px;
         position: relative;
         top: -40px;
+
         .button {
             color: $baseColor;
+
             i {
                 padding-right: .5rem;
             }
         }
     }
+
     #videoTxt {
         border-bottom: 1px solid $baseBorderColor;
         width: 100%;
+        top: -1rem;
+        position: relative;
 
-        &>p {
+        & > p {
             padding-left: 3.5rem;
             height: 50px;
-        }       
+        }
     }
-    h5,h6,p {
+
+    h5, h6, p {
         color: $baseColor;
     }
+
     .thumbnail img {
         width: 2rem;
         height: 2rem;
     }
+
     .media-object-section {
-        h6,p {
+        h6, p {
             font-size: .75rem;
         }
     }

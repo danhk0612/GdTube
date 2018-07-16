@@ -56,4 +56,31 @@ $baseBorderColor: #232323;
             font-size: .75rem;
         }
     }
+
+    #commentList {
+        .button {
+            color: $baseColor;
+            padding-left: 0rem;
+        }
+        textarea {
+            width: 780px;
+        }
+        .commentOne {
+            padding-bottom: 1rem;
+            a {
+                color: #00adee;
+            }
+            span {
+                color: $baseColor;
+                padding-left: .5rem;
+            }
+            a,span {
+                font-size: .75rem;
+            }
+            p {
+                padding-top: .5rem;
+            }
+        }
+
+    }
 }

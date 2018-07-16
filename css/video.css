@@ -50,3 +50,33 @@
 #contents .media-object-section h6, #contents .media-object-section p {
   font-size: .75rem;
 }
+
+#contents #commentList .button {
+  color: #fff;
+  padding-left: 0rem;
+}
+
+#contents #commentList textarea {
+  width: 780px;
+}
+
+#contents #commentList .commentOne {
+  padding-bottom: 1rem;
+}
+
+#contents #commentList .commentOne a {
+  color: #00adee;
+}
+
+#contents #commentList .commentOne span {
+  color: #fff;
+  padding-left: .5rem;
+}
+
+#contents #commentList .commentOne a, #contents #commentList .commentOne span {
+  font-size: .75rem;
+}
+
+#contents #commentList .commentOne p {
+  padding-top: .5rem;
+}

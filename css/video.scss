@@ -62,25 +62,79 @@ $baseBorderColor: #232323;
             color: $baseColor;
             padding-left: 0rem;
         }
+
         textarea {
             width: 780px;
         }
+
         .commentOne {
             padding-bottom: 1rem;
+
             a {
                 color: #00adee;
             }
+
             span {
                 color: $baseColor;
                 padding-left: .5rem;
             }
-            a,span {
+
+            a, span {
                 font-size: .75rem;
             }
+
             p {
                 padding-top: .5rem;
             }
         }
+    }
+}
 
+#recommenList {
+    margin-top: 2rem;
+    margin-left: 2rem;
+    padding: 0;
+    position: relative;
+    width: 402px;
+
+    h6,p{
+        color: $baseColor;
+    }
+    a {
+        color: #00adee;
+    }
+    p,a {
+        font-size: .75rem;
+    }
+
+    .switch {
+        position: relative;
+        p {
+            position: relative;
+            top: .3rem;
+            left: -60px;
+        }
+        label {
+            position: relative;
+            top: -2rem;
+        }
+        input:checked ~ .switch-paddle {
+            background: #00adee;
+        }
+    }
+
+    .recommenVideo {
+        .thumbnail {
+            border: 0;
+        }
+
+        img {
+            width: 168px;
+            height: 95px;
+        }
+
+        .recommenDetail {
+            width: 200px;
+        }
     }
 }

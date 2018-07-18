@@ -80,3 +80,55 @@
 #contents #commentList .commentOne p {
   padding-top: .5rem;
 }
+
+#recommenList {
+  margin-top: 2rem;
+  margin-left: 2rem;
+  padding: 0;
+  position: relative;
+  width: 402px;
+}
+
+#recommenList h6, #recommenList p {
+  color: #fff;
+}
+
+#recommenList a {
+  color: #00adee;
+}
+
+#recommenList p, #recommenList a {
+  font-size: .75rem;
+}
+
+#recommenList .switch {
+  position: relative;
+}
+
+#recommenList .switch p {
+  position: relative;
+  top: .3rem;
+  left: -60px;
+}
+
+#recommenList .switch label {
+  position: relative;
+  top: -2rem;
+}
+
+#recommenList .switch input:checked ~ .switch-paddle {
+  background: #00adee;
+}
+
+#recommenList .recommenVideo .thumbnail {
+  border: 0;
+}
+
+#recommenList .recommenVideo img {
+  width: 168px;
+  height: 95px;
+}
+
+#recommenList .recommenVideo .recommenDetail {
+  width: 200px;
+}

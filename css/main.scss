@@ -8,6 +8,21 @@ body {
     overflow-x: hidden;
 }
 
+#sideBar {
+    &.forSmall {
+        z-index: 99;
+        max-width: 240px;
+        width: 100%;
+        position: absolute;
+        height: 100%;
+    }
+}
+
+.blurBox {
+    filter: blur(5px);
+    pointer-events: none;
+}
+
 #header {
     background-color: $anotherBgColor;
     border-bottom: 1px solid $baseBorderColor;

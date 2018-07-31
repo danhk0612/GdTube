@@ -8,7 +8,7 @@ $baseBorderColor: #232323;
     margin-left: 5rem;
     padding: 0;
     position: relative;
-    width: 854px;
+
 
     #recentVideo {
         padding-bottom: 1rem;
@@ -39,6 +39,7 @@ $baseBorderColor: #232323;
         & > p {
             padding-left: 3.5rem;
             height: 50px;
+            overflow: hidden;
         }
     }
 
@@ -61,10 +62,6 @@ $baseBorderColor: #232323;
         .button {
             color: $baseColor;
             padding-left: 0rem;
-        }
-
-        textarea {
-            width: 780px;
         }
 
         .commentOne {

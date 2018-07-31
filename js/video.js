@@ -1,3 +1,32 @@
+function resizeVideo() {
+    let v = $("#contents").width();
+    $("#recentVideo").attr('width', v).attr('height',v/2);
+    $("#commentList textarea").css('width', v-50);
+}
+
+
+$("#sideBar").hide();
+resizeVideo();
+
+function toggleMenu() {
+    let e = $('#sideBar');
+    let e2 = $('#contents');
+    let e3 = $('#recommenList');
+
+    e.toggle().toggleClass("forSmall show-for-large").css("visibility", "");
+    e2.toggleClass("blurBox");
+    e3.toggleClass("blurBox");
+
+}
+
+$(window).resize(function () {
+    resizeVideo();
+});
+
+$("#sideMenuBtn").click(function () {
+    toggleMenu();
+});
+
 var getParameters = function (paramName) {
     // 리턴값을 위한 변수 선언
     var returnValue;
@@ -18,5 +47,7 @@ var getParameters = function (paramName) {
     }
 };
 
-let videoUrl = "https://www.youtube.com/embed/"+getParameters('v');
-$("#recentVideo").attr("src", videoUrl ).attr( 'src', function ( i, val ) { return val; });
+let videoUrl = "https://www.youtube.com/embed/" + getParameters('v');
+$("#recentVideo").attr("src", videoUrl).attr('src', function (i, val) {
+    return val;
+});

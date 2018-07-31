@@ -3,7 +3,6 @@
   margin-left: 5rem;
   padding: 0;
   position: relative;
-  width: 854px;
 }
 
 #contents #recentVideo {
@@ -36,6 +35,7 @@
 #contents #videoTxt > p {
   padding-left: 3.5rem;
   height: 50px;
+  overflow: hidden;
 }
 
 #contents h5, #contents h6, #contents p {
@@ -54,10 +54,6 @@
 #contents #commentList .button {
   color: #fff;
   padding-left: 0rem;
-}
-
-#contents #commentList textarea {
-  width: 780px;
 }
 
 #contents #commentList .commentOne {

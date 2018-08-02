@@ -1,0 +1,115 @@
+$baseColor: #fff;
+$baseBgColor: #111111;
+$anotherBgColor: #181818;
+$baseBorderColor: #232323;
+
+#contents {
+    .videoGroup {
+        width: 436px;
+        overflow-x: hidden;
+        margin: 1rem auto;
+        padding-bottom: 1rem;
+        border-bottom: 1px solid $baseBorderColor;
+        position: relative;
+
+        .videoInner {
+            width: 1310px;
+            position: relative;
+        }
+
+        span {
+            position: absolute;
+            border-radius: 1.5rem;
+            border: 1px solid #000;
+            color: #fff;
+            background-color: $anotherBgColor;
+            padding: 1rem;
+            top: 25%;
+            font-weight: bold;
+            z-index: 99;
+
+            &.arrowLeft {
+                left: .5rem;
+                display: none;
+            }
+
+            &.arrowRight {
+                right: 1rem;
+            }
+        }
+
+        h5 {
+            color: $baseColor;
+        }
+
+        .card {
+            width: 210px;
+            color: $baseColor;
+            border: none;
+            display: inline-block;
+            margin: 0 .1rem;
+
+            .card-section {
+                background-color: $baseBgColor;
+            }
+
+            .Gthumbnail {
+                width: 210px;
+                height: 118px;
+                overflow: hidden;
+                position: relative;
+            }
+
+            .centered {
+                position: absolute;
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                -webkit-transform: translate(50%, 50%);
+                -ms-transform: translate(50%, 50%);
+                transform: translate(50%, 50%);
+            }
+
+            img {
+                position: absolute;
+                top: 0;
+                left: 0;
+                max-width: 100%;
+                height: auto;
+                -webkit-transform: translate(-50%, -50%);
+                -ms-transform: translate(-50%, -50%);
+                transform: translate(-50%, -50%);
+            }
+
+            h5 {
+                font-size: .75rem;
+
+                // 여러줄 자르기 (http://webdir.tistory.com/483)
+                display: inline-block;
+                white-space: nowrap;
+                overflow: hidden;
+                text-overflow: ellipsis;
+                white-space: normal;
+                line-height: 1.1;
+                height: 2.2em;
+
+                // For 크롬
+                text-align: left;
+                word-wrap: break-word;
+                display: -webkit-box;
+                -webkit-line-clamp: 2;
+                -webkit-box-orient: vertical;
+            }
+
+            p {
+                font-size: 0.75rem;
+                margin-bottom: 0;
+
+                &.chName {
+                    color: rgb(0, 173, 238);
+                }
+            }
+        }
+    }
+}

@@ -16,7 +16,7 @@ body {
   top: 0;
   width: 100%;
   height: 50px;
-  z-index: 99;
+  z-index: 98;
 }
 
 #header #logoImg {
@@ -70,6 +70,7 @@ body {
   z-index: 50;
   height: 100%;
   overflow: hidden;
+  position: fixed;
   background-color: #181818;
   border-right: 1px solid #232323;
   width: 240px;
@@ -78,8 +79,6 @@ body {
 #sideBar.forSmall {
   z-index: 99;
   max-width: 240px;
-  width: 100%;
-  position: absolute;
   height: 100%;
 }
 

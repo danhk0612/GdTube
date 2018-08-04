@@ -7,6 +7,28 @@
   position: relative;
 }
 
+#contents .videoGroup.verySmall {
+  width: 300px;
+}
+
+#contents .videoGroup.verySmall .card {
+  width: 300px !important;
+  display: none;
+}
+
+#contents .videoGroup.verySmall .card:first-child {
+  display: inline-block;
+}
+
+#contents .videoGroup.verySmall .Gthumbnail {
+  width: 300px !important;
+  height: 150px !important;
+}
+
+#contents .videoGroup.verySmall span {
+  display: none !important;
+}
+
 #contents .videoGroup .videoInner {
   width: 1310px;
   position: relative;

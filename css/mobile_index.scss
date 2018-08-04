@@ -12,6 +12,26 @@ $baseBorderColor: #232323;
         border-bottom: 1px solid $baseBorderColor;
         position: relative;
 
+        &.verySmall {
+            width: 300px;
+            .card {
+                width: 300px !important;
+                display: none;
+                &:first-child {
+                    display: inline-block;
+                }
+            }            
+
+            .Gthumbnail {
+                width: 300px !important;
+                height: 150px !important;
+            }
+
+            span {
+                display: none !important;
+            }
+        }
+
         .videoInner {
             width: 1310px;
             position: relative;

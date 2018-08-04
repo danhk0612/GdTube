@@ -1,11 +1,18 @@
-if($(".videoGroup").width()>=1310){
-    $("span.arrowRight").toggle(); 
+function resizeContentBox() {
+    if($("html").width()<=600){
+        $(".videoGroup").addClass("verySmall"); 
+    }else{
+        $(".videoGroup").removeClass("verySmall");
+    }
 }
+
+resizeContentBox();
 
 $(window).resize(function() {
     $(".videoInner").css('left','0');
     $("span.arrowLeft").hide(); 
     $("span.arrowRight").show(); 
+    resizeContentBox();
 });
 
 $("span.arrowLeft").click(function(){
@@ -44,12 +51,9 @@ function toggleSearchBar() {
     e.toggle();
     e2.toggle();
     e3.toggle();
-}
 
-$(window).resize(function() {
-    let e = $('#sideBar');
-    let e2 = $('#contents');
-});
+    $("#searchBar input").focus();
+}
 
 $("#sideMenuBtn").click(function () {
     toggleMenu();

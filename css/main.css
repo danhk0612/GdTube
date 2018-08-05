@@ -53,6 +53,8 @@ body {
 }
 
 #sideBar {
+  overflow-y: scroll;
+  overflow-x: hidden;
   background-color: #181818;
   border-right: 1px solid #232323;
   width: 240px;

@@ -59,7 +59,8 @@ body {
         position: absolute;
         height: 100%;
     }
-    
+    overflow-y: scroll;
+    overflow-x: hidden;
     background-color: $anotherBgColor;
     border-right: 1px solid $baseBorderColor;
     width: 240px;

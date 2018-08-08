@@ -21,9 +21,9 @@ body {
 
 #header #logoImg {
   position: relative;
-  top: -10px;
-  width: 150px;
-  height: 30px;
+  top: -5px;
+  width: 100px;
+  height: 20px;
 }
 
 #header .button {

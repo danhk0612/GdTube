@@ -1,7 +1,5 @@
-$baseColor: #fff;
-$baseBgColor: #111111;
-$anotherBgColor: #181818;
-$baseBorderColor: #232323;
+@import "basic.scss";
+
 body {
     background-color: $baseBgColor;
     overflow-x: hidden;

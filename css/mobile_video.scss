@@ -1,0 +1,30 @@
+@import "basic.scss";
+
+#contents {
+    margin: 1rem 0;
+    color: $baseColor;
+
+    .button {
+        color: $baseColor;
+        i {
+            padding-right: .5rem;
+        }
+    }
+
+    .thumbnail {
+        img {
+            width: 50px;
+        } 
+    }
+
+    #videoInfo {
+        position: relative;
+        top: -40px;
+        
+    }
+    #videoTxt {
+        border-top: 1px solid $baseBorderColor;
+
+
+    }
+}

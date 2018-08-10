@@ -1,0 +1,25 @@
+#contents {
+  margin: 1rem 0;
+  color: #fff;
+}
+
+#contents .button {
+  color: #fff;
+}
+
+#contents .button i {
+  padding-right: .5rem;
+}
+
+#contents .thumbnail img {
+  width: 50px;
+}
+
+#contents #videoInfo {
+  position: relative;
+  top: -40px;
+}
+
+#contents #videoTxt {
+  border-top: 1px solid #232323;
+}

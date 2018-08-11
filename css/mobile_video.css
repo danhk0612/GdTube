@@ -5,6 +5,7 @@
 
 #contents .button {
   color: #fff;
+  padding: 0.85em 0.25em;
 }
 
 #contents .button i {
@@ -22,4 +23,5 @@
 
 #contents #videoTxt {
   border-top: 1px solid #232323;
+  padding-top: 1em;
 }

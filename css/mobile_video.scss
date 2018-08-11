@@ -6,6 +6,7 @@
 
     .button {
         color: $baseColor;
+        padding: 0.85em 0.25em;
         i {
             padding-right: .5rem;
         }
@@ -24,6 +25,7 @@
     }
     #videoTxt {
         border-top: 1px solid $baseBorderColor;
+        padding-top: 1em;
 
 
     }

@@ -65,7 +65,7 @@
             padding-bottom: 1rem;
 
             a {
-                color: #00adee;
+                color: $linkColor;
             }
 
             span {
@@ -95,7 +95,7 @@
         color: $baseColor;
     }
     a {
-        color: #00adee;
+        color: $linkColor;
     }
     p,a {
         font-size: .75rem;
@@ -113,7 +113,7 @@
             top: -2rem;
         }
         input:checked ~ .switch-paddle {
-            background: #00adee;
+            background: $linkColor;
         }
     }
 

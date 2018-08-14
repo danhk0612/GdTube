@@ -1,104 +1,1070 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<postlist>
-    <totalitem>10</totalitem>
-    <post>
-        <no>1</no>
-        <category>분류</category>
-        <title>글 제목 예제 입니다.</title>
-        <author>이름</author>
-        <date>2018-01-10</date>
-        <read>2</read>
-        <vote>5</vote>
-        <videoId>ArwlOS14IME</videoId>
-    </post>
-    <post>
-        <no>1</no>
-        <category>분류</category>
-        <title>글 제목 예제 입니다.</title>
-        <author>이름</author>
-        <date>2018-01-10</date>
-        <read>2</read>
-        <vote>5</vote>
-        <videoId>ArwlOS14IME</videoId>
-    </post>
-    <post>
-        <no>1</no>
-        <category>분류</category>
-        <title>글 제목 예제 입니다.</title>
-        <author>이름</author>
-        <date>2018-01-10</date>
-        <read>2</read>
-        <vote>5</vote>
-        <videoId>ArwlOS14IME</videoId>
-    </post>
-    <post>
-        <no>1</no>
-        <category>분류</category>
-        <title>글 제목 예제 입니다.</title>
-        <author>이름</author>
-        <date>2018-01-10</date>
-        <read>2</read>
-        <vote>5</vote>
-        <videoId>ArwlOS14IME</videoId>
-    </post>
-    <post>
-        <no>1</no>
-        <category>분류</category>
-        <title>글 제목 예제 입니다.</title>
-        <author>이름</author>
-        <date>2018-01-10</date>
-        <read>2</read>
-        <vote>5</vote>
-        <videoId>ArwlOS14IME</videoId>
-    </post>
-    <post>
-        <no>1</no>
-        <category>분류</category>
-        <title>글 제목 예제 입니다.</title>
-        <author>이름</author>
-        <date>2018-01-10</date>
-        <read>2</read>
-        <vote>5</vote>
-        <videoId>ArwlOS14IME</videoId>
-    </post>
-    <post>
-        <no>1</no>
-        <category>분류</category>
-        <title>글 제목 예제 입니다.</title>
-        <author>이름</author>
-        <date>2018-01-10</date>
-        <read>2</read>
-        <vote>5</vote>
-        <videoId>ArwlOS14IME</videoId>
-    </post>
-    <post>
-        <no>1</no>
-        <category>분류</category>
-        <title>글 제목 예제 입니다.</title>
-        <author>이름</author>
-        <date>2018-01-10</date>
-        <read>2</read>
-        <vote>5</vote>
-        <videoId>ArwlOS14IME</videoId>
-    </post>
-    <post>
-        <no>1</no>
-        <category>분류</category>
-        <title>글 제목 예제 입니다.</title>
-        <author>이름</author>
-        <date>2018-01-10</date>
-        <read>2</read>
-        <vote>5</vote>
-        <videoId>ArwlOS14IME</videoId>
-    </post>
-    <post>
-        <no>1</no>
-        <category>분류</category>
-        <title>글 제목 예제 입니다.</title>
-        <author>이름</author>
-        <date>2018-01-10</date>
-        <read>2</read>
-        <vote>5</vote>
-        <videoId>ArwlOS14IME</videoId>
-    </post>
-</postlist>
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCQINXHZqCU5i06HzxRkujfg"/>
+ <id>yt:channel:UCQINXHZqCU5i06HzxRkujfg</id>
+ <yt:channelId>UCQINXHZqCU5i06HzxRkujfg</yt:channelId>
+ <title>BGM channel</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCQINXHZqCU5i06HzxRkujfg"/>
+ <author>
+  <name>BGM channel</name>
+  <uri>https://www.youtube.com/channel/UCQINXHZqCU5i06HzxRkujfg</uri>
+ </author>
+ <published>2014-02-10T17:50:19+00:00</published>
+ <entry>
+  <id>yt:video:thmjmO_OY3U</id>
+  <yt:videoId>thmjmO_OY3U</yt:videoId>
+  <yt:channelId>UCQINXHZqCU5i06HzxRkujfg</yt:channelId>
+  <title>Summer Camp Guitar Music - Relaxing Music For Study, Work - Background Music</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=thmjmO_OY3U"/>
+  <author>
+   <name>BGM channel</name>
+   <uri>https://www.youtube.com/channel/UCQINXHZqCU5i06HzxRkujfg</uri>
+  </author>
+  <published>2018-08-14T05:08:49+00:00</published>
+  <updated>2018-08-14T14:34:41+00:00</updated>
+  <media:group>
+   <media:title>Summer Camp Guitar Music - Relaxing Music For Study, Work - Background Music</media:title>
+   <media:content url="https://www.youtube.com/v/thmjmO_OY3U?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/thmjmO_OY3U/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Please Subscribe
+Cafe Music BGM channel
+https://www.youtube.com/user/cafemusicbgmchannel
+BGM channel
+https://www.youtube.com/user/bgmchannelbgm
+
+Music For Business「Cafe Music BGM Station」
+JAPANEASE / https://bgm-station.com
+English / https://bgm-station.com/en
+繁體中文 / https://bgm-station.com/tc/
+Español / https://bgm-station.com/es/
+한국어 / https://bgm-station.com/ko/
+You can use this music at your restaurants,shops,hospitals,offices,part­ies etc..
+
+〜New Release〜 
+Buy Music &amp; Streaming service
+・Apple Music
+https://itunes.apple.com/jp/artist/cafe-music-bgm-channel/1028904635
+・Spotify
+https://open.spotify.com/artist/3yKoHgjtyenCOIRaD2Gghu
+・Google Play Music
+https://play.google.com/store/music/artist/Cafe_Music_BGM_channel?id=A43eibfchwdcpxzlm2xwdca63fa&amp;hl=ja
+
+Our Music for relaxation, for work, for study etc.
+All music in this video &amp; in this channel is original music by me.
+
+We are playing all the songs.
+
+~Official web site~
+http://www.bgmchannel.com/
+
+~Contact ~
+For business inquiries (live music&amp;creating music for your business), contact us via contact form in website
+
+
+facebook
+https://www.facebook.com/bgmchannelbgm/?ref=hl
+
+Music is Copyrighted.
+
+#RelaxingGuitar #BackgroundMusic #ChillOutMusic</media:description>
+   <media:community>
+    <media:starRating count="76" average="4.95" min="1" max="5"/>
+    <media:statistics views="1379"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:fsPhZPcDugM</id>
+  <yt:videoId>fsPhZPcDugM</yt:videoId>
+  <yt:channelId>UCQINXHZqCU5i06HzxRkujfg</yt:channelId>
+  <title>Relaxing Jazz &amp; Bossa Nova Music - Morning Cafe Music - Chill Out Music For Study, Work</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=fsPhZPcDugM"/>
+  <author>
+   <name>BGM channel</name>
+   <uri>https://www.youtube.com/channel/UCQINXHZqCU5i06HzxRkujfg</uri>
+  </author>
+  <published>2018-08-12T23:25:52+00:00</published>
+  <updated>2018-08-14T13:31:19+00:00</updated>
+  <media:group>
+   <media:title>Relaxing Jazz &amp; Bossa Nova Music - Morning Cafe Music - Chill Out Music For Study, Work</media:title>
+   <media:content url="https://www.youtube.com/v/fsPhZPcDugM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/fsPhZPcDugM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Please Subscribe
+Cafe Music BGM channel
+https://www.youtube.com/user/cafemusicbgmchannel
+BGM channel
+https://www.youtube.com/user/bgmchannelbgm
+
+Music For Business「Cafe Music BGM Station」
+JAPANEASE / https://bgm-station.com
+English / https://bgm-station.com/en
+繁體中文 / https://bgm-station.com/tc/
+Español / https://bgm-station.com/es/
+한국어 / https://bgm-station.com/ko/
+You can use this music at your restaurants,shops,hospitals,offices,part­ies etc..
+
+〜New Release(iTunes)〜
+https://itunes.apple.com/jp/album/good-morning-music/1331571951
+〜Spotify〜
+https://open.spotify.com/artist/3yKoHgjtyenCOIRaD2Gghu
+
+Our Music for relaxation, for work, for study etc.
+All music in this video &amp; in this channel is original music by me.
+
+We are playing all the songs.
+
+~iTunes~
+Jazz Bossa
+https://itunes.apple.com/jp/album/coffee-shop-music-jazz-bossa/id1068050505
+https://itunes.apple.com/jp/album/happy-jazz-bossa/id1028904334
+BGM channel
+https://itunes.apple.com/jp/album/yu-yin2-ep/id954262715
+PIANO MUSIC
+https://itunes.apple.com/jp/album/background-piano-music-ep/id835673684
+
+~Official web site~
+http://www.bgmchannel.com/
+
+~Contact ~
+For business inquiries (live music&amp;creating music for your business), contact us via contact form in website
+
+
+facebook
+https://www.facebook.com/bgmchannelbgm/?ref=hl
+
+Music is Copyrighted.
+#朝カフェ #作業用BGM #MusicForStudy
+
+
+
+#作業用BGM #勉強用BGM #癒しBGM</media:description>
+   <media:community>
+    <media:starRating count="104" average="4.85" min="1" max="5"/>
+    <media:statistics views="5343"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:kJI9T8jaE5k</id>
+  <yt:videoId>kJI9T8jaE5k</yt:videoId>
+  <yt:channelId>UCQINXHZqCU5i06HzxRkujfg</yt:channelId>
+  <title>Summer Piano Music - Relaxing Piano Music For Work, Study, Sleep - Japanese Piano Music</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=kJI9T8jaE5k"/>
+  <author>
+   <name>BGM channel</name>
+   <uri>https://www.youtube.com/channel/UCQINXHZqCU5i06HzxRkujfg</uri>
+  </author>
+  <published>2018-08-10T02:06:24+00:00</published>
+  <updated>2018-08-14T14:27:51+00:00</updated>
+  <media:group>
+   <media:title>Summer Piano Music - Relaxing Piano Music For Work, Study, Sleep - Japanese Piano Music</media:title>
+   <media:content url="https://www.youtube.com/v/kJI9T8jaE5k?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/kJI9T8jaE5k/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Please Subscribe
+Cafe Music BGM channel
+https://www.youtube.com/user/cafemusicbgmchannel
+BGM channel
+https://www.youtube.com/user/bgmchannelbgm
+
+Music For Business「Cafe Music BGM Station」
+JAPANEASE / https://bgm-station.com
+English / https://bgm-station.com/en
+繁體中文 / https://bgm-station.com/tc/
+Español / https://bgm-station.com/es/
+한국어 / https://bgm-station.com/ko/
+You can use this music at your restaurants,shops,hospitals,offices,part­ies etc..
+
+〜New Release(iTunes)〜
+https://itunes.apple.com/jp/album/good-morning-music/1331571951
+〜Spotify〜
+https://open.spotify.com/album/6XZCk3Ot8eQa3OYxFIdjGD
+
+Our Music for relaxation, for work, for study etc.
+All music in this video &amp; in this channel is original music by me.
+
+We are playing all the songs.
+
+~iTunes~
+Jazz Bossa
+https://itunes.apple.com/jp/album/coffee-shop-music-jazz-bossa/id1068050505
+https://itunes.apple.com/jp/album/happy-jazz-bossa/id1028904334
+BGM channel
+https://itunes.apple.com/jp/album/yu-yin2-ep/id954262715
+PIANO MUSIC
+https://itunes.apple.com/jp/album/background-piano-music-ep/id835673684
+
+~Official web site~
+http://www.bgmchannel.com/
+
+~Contact ~
+For business inquiries (live music&amp;creating music for your business), contact us via contact form in website
+
+
+facebook
+https://www.facebook.com/bgmchannelbgm/?ref=hl
+
+Music is Copyrighted.
+#RelaxingPiano #CalmPiano #SummerPiano
+
+
+
+#作業用BGM #勉強用BGM #癒しBGM</media:description>
+   <media:community>
+    <media:starRating count="175" average="4.89" min="1" max="5"/>
+    <media:statistics views="8490"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:0FfV35uWrRY</id>
+  <yt:videoId>0FfV35uWrRY</yt:videoId>
+  <yt:channelId>UCQINXHZqCU5i06HzxRkujfg</yt:channelId>
+  <title>Peaceful Hawaiian Music - Relaxing Guitar Music - Background Music For Work, Study, Relax</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=0FfV35uWrRY"/>
+  <author>
+   <name>BGM channel</name>
+   <uri>https://www.youtube.com/channel/UCQINXHZqCU5i06HzxRkujfg</uri>
+  </author>
+  <published>2018-08-07T22:39:41+00:00</published>
+  <updated>2018-08-14T10:36:08+00:00</updated>
+  <media:group>
+   <media:title>Peaceful Hawaiian Music - Relaxing Guitar Music - Background Music For Work, Study, Relax</media:title>
+   <media:content url="https://www.youtube.com/v/0FfV35uWrRY?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/0FfV35uWrRY/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Please Subscribe
+Cafe Music BGM channel
+https://www.youtube.com/user/cafemusicbgmchannel
+BGM channel
+https://www.youtube.com/user/bgmchannelbgm
+
+Music For Business「Cafe Music BGM Station」
+JAPANEASE / https://bgm-station.com
+English / https://bgm-station.com/en
+繁體中文 / https://bgm-station.com/tc/
+Español / https://bgm-station.com/es/
+한국어 / https://bgm-station.com/ko/
+You can use this music at your restaurants,shops,hospitals,offices,part­ies etc..
+
+〜New Release(iTunes)〜
+https://itunes.apple.com/jp/album/good-morning-music/1331571951
+〜Spotify〜
+https://open.spotify.com/album/6XZCk3Ot8eQa3OYxFIdjGD
+
+Our Music for relaxation, for work, for study etc.
+All music in this video &amp; in this channel is original music by me.
+
+We are playing all the songs.
+
+~iTunes~
+Jazz Bossa
+https://itunes.apple.com/jp/album/coffee-shop-music-jazz-bossa/id1068050505
+https://itunes.apple.com/jp/album/happy-jazz-bossa/id1028904334
+BGM channel
+https://itunes.apple.com/jp/album/yu-yin2-ep/id954262715
+PIANO MUSIC
+https://itunes.apple.com/jp/album/background-piano-music-ep/id835673684
+
+~Official web site~
+http://www.bgmchannel.com/
+
+~Contact ~
+For business inquiries (live music&amp;creating music for your business), contact us via contact form in website
+
+
+facebook
+https://www.facebook.com/bgmchannelbgm/?ref=hl
+
+Music is Copyrighted.
+#HawaiianMusic #RelaxingGuitar #BackgroundMusic
+
+
+
+#作業用BGM #勉強用BGM #癒しBGM</media:description>
+   <media:community>
+    <media:starRating count="206" average="4.94" min="1" max="5"/>
+    <media:statistics views="13818"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:IKOVJDLh2hg</id>
+  <yt:videoId>IKOVJDLh2hg</yt:videoId>
+  <yt:channelId>UCQINXHZqCU5i06HzxRkujfg</yt:channelId>
+  <title>Slow Cafe Jazz Music - Soothing Jazz Music - Chill Out Cafe Music - Stress relief</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=IKOVJDLh2hg"/>
+  <author>
+   <name>BGM channel</name>
+   <uri>https://www.youtube.com/channel/UCQINXHZqCU5i06HzxRkujfg</uri>
+  </author>
+  <published>2018-08-05T21:27:56+00:00</published>
+  <updated>2018-08-14T13:01:31+00:00</updated>
+  <media:group>
+   <media:title>Slow Cafe Jazz Music - Soothing Jazz Music - Chill Out Cafe Music - Stress relief</media:title>
+   <media:content url="https://www.youtube.com/v/IKOVJDLh2hg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/IKOVJDLh2hg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Please Subscribe
+Cafe Music BGM channel
+https://www.youtube.com/user/cafemusicbgmchannel
+BGM channel
+https://www.youtube.com/user/bgmchannelbgm
+
+Music For Business「Cafe Music BGM Station」
+JAPANEASE / https://bgm-station.com
+English / https://bgm-station.com/en
+繁體中文 / https://bgm-station.com/tc/
+Español / https://bgm-station.com/es/
+한국어 / https://bgm-station.com/ko/
+You can use this music at your restaurants,shops,hospitals,offices,part­ies etc..
+
+〜New Release(iTunes)〜
+https://itunes.apple.com/jp/album/good-morning-music/1331571951
+〜Spotify〜
+https://open.spotify.com/album/6XZCk3Ot8eQa3OYxFIdjGD
+
+Our Music for relaxation, for work, for study etc.
+All music in this video &amp; in this channel is original music by me.
+
+We are playing all the songs.
+
+~iTunes~
+Jazz Bossa
+https://itunes.apple.com/jp/album/coffee-shop-music-jazz-bossa/id1068050505
+https://itunes.apple.com/jp/album/happy-jazz-bossa/id1028904334
+BGM channel
+https://itunes.apple.com/jp/album/yu-yin2-ep/id954262715
+PIANO MUSIC
+https://itunes.apple.com/jp/album/background-piano-music-ep/id835673684
+
+~Official web site~
+http://www.bgmchannel.com/
+
+~Contact ~
+For business inquiries (live music&amp;creating music for your business), contact us via contact form in website
+
+
+facebook
+https://www.facebook.com/bgmchannelbgm/?ref=hl
+
+Music is Copyrighted.
+#SlowJazz #SoothingJazz #ChillOutCafeMusic
+
+
+
+#作業用BGM #勉強用BGM #癒しBGM</media:description>
+   <media:community>
+    <media:starRating count="227" average="4.89" min="1" max="5"/>
+    <media:statistics views="13786"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:4eOwH_3oMxE</id>
+  <yt:videoId>4eOwH_3oMxE</yt:videoId>
+  <yt:channelId>UCQINXHZqCU5i06HzxRkujfg</yt:channelId>
+  <title>Healing Music - Guitar &amp; Piano Music - Peaceful Music - Sleep Music</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=4eOwH_3oMxE"/>
+  <author>
+   <name>BGM channel</name>
+   <uri>https://www.youtube.com/channel/UCQINXHZqCU5i06HzxRkujfg</uri>
+  </author>
+  <published>2018-08-04T03:52:08+00:00</published>
+  <updated>2018-08-14T11:37:28+00:00</updated>
+  <media:group>
+   <media:title>Healing Music - Guitar &amp; Piano Music - Peaceful Music - Sleep Music</media:title>
+   <media:content url="https://www.youtube.com/v/4eOwH_3oMxE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/4eOwH_3oMxE/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Please Subscribe
+Cafe Music BGM channel
+https://www.youtube.com/user/cafemusicbgmchannel
+BGM channel
+https://www.youtube.com/user/bgmchannelbgm
+
+Music For Business「Cafe Music BGM Station」
+JAPANEASE / https://bgm-station.com
+English / https://bgm-station.com/en
+繁體中文 / https://bgm-station.com/tc/
+Español / https://bgm-station.com/es/
+한국어 / https://bgm-station.com/ko/
+You can use this music at your restaurants,shops,hospitals,offices,part­ies etc..
+
+〜New Release(iTunes)〜
+https://itunes.apple.com/jp/album/good-morning-music/1331571951
+〜Spotify〜
+https://open.spotify.com/album/6XZCk3Ot8eQa3OYxFIdjGD
+
+Our Music for relaxation, for work, for study etc.
+All music in this video &amp; in this channel is original music by me.
+
+We are playing all the songs.
+
+~iTunes~
+Jazz Bossa
+https://itunes.apple.com/jp/album/coffee-shop-music-jazz-bossa/id1068050505
+https://itunes.apple.com/jp/album/happy-jazz-bossa/id1028904334
+BGM channel
+https://itunes.apple.com/jp/album/yu-yin2-ep/id954262715
+PIANO MUSIC
+https://itunes.apple.com/jp/album/background-piano-music-ep/id835673684
+
+~Official web site~
+http://www.bgmchannel.com/
+
+~Contact ~
+For business inquiries (live music&amp;creating music for your business), contact us via contact form in website
+
+
+facebook
+https://www.facebook.com/bgmchannelbgm/?ref=hl
+
+Music is Copyrighted.
+#PeacefulMusic #SleepMusic #BackgroundMusic
+
+
+
+#作業用BGM #勉強用BGM #癒しBGM</media:description>
+   <media:community>
+    <media:starRating count="76" average="4.89" min="1" max="5"/>
+    <media:statistics views="4655"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:FNqMJqglU68</id>
+  <yt:videoId>FNqMJqglU68</yt:videoId>
+  <yt:channelId>UCQINXHZqCU5i06HzxRkujfg</yt:channelId>
+  <title>Peaceful Music - Piano &amp; Guitar Music - Relaxing Music For Work, Sleep, Study</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=FNqMJqglU68"/>
+  <author>
+   <name>BGM channel</name>
+   <uri>https://www.youtube.com/channel/UCQINXHZqCU5i06HzxRkujfg</uri>
+  </author>
+  <published>2018-08-01T23:01:46+00:00</published>
+  <updated>2018-08-14T11:12:13+00:00</updated>
+  <media:group>
+   <media:title>Peaceful Music - Piano &amp; Guitar Music - Relaxing Music For Work, Sleep, Study</media:title>
+   <media:content url="https://www.youtube.com/v/FNqMJqglU68?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/FNqMJqglU68/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Please Subscribe
+Cafe Music BGM channel
+https://www.youtube.com/user/cafemusicbgmchannel
+BGM channel
+https://www.youtube.com/user/bgmchannelbgm
+
+Music For Business「Cafe Music BGM Station」
+JAPANEASE / https://bgm-station.com
+English / https://bgm-station.com/en
+繁體中文 / https://bgm-station.com/tc/
+Español / https://bgm-station.com/es/
+한국어 / https://bgm-station.com/ko/
+You can use this music at your restaurants,shops,hospitals,offices,part­ies etc..
+
+〜New Release(iTunes)〜
+https://itunes.apple.com/jp/album/good-morning-music/1331571951
+〜Spotify〜
+https://open.spotify.com/album/6XZCk3Ot8eQa3OYxFIdjGD
+
+Our Music for relaxation, for work, for study etc.
+All music in this video &amp; in this channel is original music by me.
+
+We are playing all the songs.
+
+~iTunes~
+Jazz Bossa
+https://itunes.apple.com/jp/album/coffee-shop-music-jazz-bossa/id1068050505
+https://itunes.apple.com/jp/album/happy-jazz-bossa/id1028904334
+BGM channel
+https://itunes.apple.com/jp/album/yu-yin2-ep/id954262715
+PIANO MUSIC
+https://itunes.apple.com/jp/album/background-piano-music-ep/id835673684
+
+~Official web site~
+http://www.bgmchannel.com/
+
+~Contact ~
+For business inquiries (live music&amp;creating music for your business), contact us via contact form in website
+
+
+facebook
+https://www.facebook.com/bgmchannelbgm/?ref=hl
+
+Music is Copyrighted.
+#SleepMusic #PeacefulMusic #RelaxingMusic
+
+
+
+#作業用BGM #勉強用BGM #癒しBGM</media:description>
+   <media:community>
+    <media:starRating count="95" average="4.96" min="1" max="5"/>
+    <media:statistics views="6298"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:ut6QMPhxgaE</id>
+  <yt:videoId>ut6QMPhxgaE</yt:videoId>
+  <yt:channelId>UCQINXHZqCU5i06HzxRkujfg</yt:channelId>
+  <title>Healing Cafe Music - Piano &amp; Guitar Music - Peaceful Music For Work, Study</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=ut6QMPhxgaE"/>
+  <author>
+   <name>BGM channel</name>
+   <uri>https://www.youtube.com/channel/UCQINXHZqCU5i06HzxRkujfg</uri>
+  </author>
+  <published>2018-07-31T05:36:41+00:00</published>
+  <updated>2018-08-14T11:45:19+00:00</updated>
+  <media:group>
+   <media:title>Healing Cafe Music - Piano &amp; Guitar Music - Peaceful Music For Work, Study</media:title>
+   <media:content url="https://www.youtube.com/v/ut6QMPhxgaE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/ut6QMPhxgaE/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Please Subscribe
+Cafe Music BGM channel
+https://www.youtube.com/user/cafemusicbgmchannel
+BGM channel
+https://www.youtube.com/user/bgmchannelbgm
+
+Music For Business「Cafe Music BGM Station」
+JAPANEASE / https://bgm-station.com
+English / https://bgm-station.com/en
+繁體中文 / https://bgm-station.com/tc/
+Español / https://bgm-station.com/es/
+한국어 / https://bgm-station.com/ko/
+You can use this music at your restaurants,shops,hospitals,offices,part­ies etc..
+
+〜New Release(iTunes)〜
+https://itunes.apple.com/jp/album/good-morning-music/1331571951
+〜Spotify〜
+https://open.spotify.com/album/6XZCk3Ot8eQa3OYxFIdjGD
+
+Our Music for relaxation, for work, for study etc.
+All music in this video &amp; in this channel is original music by me.
+
+We are playing all the songs.
+
+~iTunes~
+Jazz Bossa
+https://itunes.apple.com/jp/album/coffee-shop-music-jazz-bossa/id1068050505
+https://itunes.apple.com/jp/album/happy-jazz-bossa/id1028904334
+BGM channel
+https://itunes.apple.com/jp/album/yu-yin2-ep/id954262715
+PIANO MUSIC
+https://itunes.apple.com/jp/album/background-piano-music-ep/id835673684
+
+~Official web site~
+http://www.bgmchannel.com/
+
+~Contact ~
+For business inquiries (live music&amp;creating music for your business), contact us via contact form in website
+
+
+facebook
+https://www.facebook.com/bgmchannelbgm/?ref=hl
+
+Music is Copyrighted.
+
+#CafeMusic #PeacefulMusic #RelaxingMusic
+
+
+
+#作業用BGM #勉強用BGM #癒しBGM</media:description>
+   <media:community>
+    <media:starRating count="115" average="4.62" min="1" max="5"/>
+    <media:statistics views="13688"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:lZ4VOiK4wIQ</id>
+  <yt:videoId>lZ4VOiK4wIQ</yt:videoId>
+  <yt:channelId>UCQINXHZqCU5i06HzxRkujfg</yt:channelId>
+  <title>Summer Guitar Music - Peaceful Guitar Music - Relaxing Music For Study &amp; Work</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=lZ4VOiK4wIQ"/>
+  <author>
+   <name>BGM channel</name>
+   <uri>https://www.youtube.com/channel/UCQINXHZqCU5i06HzxRkujfg</uri>
+  </author>
+  <published>2018-07-30T05:57:23+00:00</published>
+  <updated>2018-08-13T01:12:36+00:00</updated>
+  <media:group>
+   <media:title>Summer Guitar Music - Peaceful Guitar Music - Relaxing Music For Study &amp; Work</media:title>
+   <media:content url="https://www.youtube.com/v/lZ4VOiK4wIQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/lZ4VOiK4wIQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Please Subscribe
+Cafe Music BGM channel
+https://www.youtube.com/user/cafemusicbgmchannel
+BGM channel
+https://www.youtube.com/user/bgmchannelbgm
+
+Music For Business「Cafe Music BGM Station」
+JAPANEASE / https://bgm-station.com
+English / https://bgm-station.com/en
+繁體中文 / https://bgm-station.com/tc/
+Español / https://bgm-station.com/es/
+한국어 / https://bgm-station.com/ko/
+You can use this music at your restaurants,shops,hospitals,offices,part­ies etc..
+
+〜New Release(iTunes)〜
+https://itunes.apple.com/jp/album/good-morning-music/1331571951
+〜Spotify〜
+https://open.spotify.com/album/6XZCk3Ot8eQa3OYxFIdjGD
+
+Our Music for relaxation, for work, for study etc.
+All music in this video &amp; in this channel is original music by me.
+
+We are playing all the songs.
+
+~iTunes~
+Jazz Bossa
+https://itunes.apple.com/jp/album/coffee-shop-music-jazz-bossa/id1068050505
+https://itunes.apple.com/jp/album/happy-jazz-bossa/id1028904334
+BGM channel
+https://itunes.apple.com/jp/album/yu-yin2-ep/id954262715
+PIANO MUSIC
+https://itunes.apple.com/jp/album/background-piano-music-ep/id835673684
+
+~Official web site~
+http://www.bgmchannel.com/
+
+~Contact ~
+For business inquiries (live music&amp;creating music for your business), contact us via contact form in website
+
+
+facebook
+https://www.facebook.com/bgmchannelbgm/?ref=hl
+
+Music is Copyrighted.
+
+#PeacefulMusic #RelaxingMusic #BackgroundMusic
+
+
+
+#作業用BGM #勉強用BGM #癒しBGM</media:description>
+   <media:community>
+    <media:starRating count="160" average="4.82" min="1" max="5"/>
+    <media:statistics views="19431"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:qkiICTC2amM</id>
+  <yt:videoId>qkiICTC2amM</yt:videoId>
+  <yt:channelId>UCQINXHZqCU5i06HzxRkujfg</yt:channelId>
+  <title>Chill Out Guitar Music - Relaxing Music - Morning Music - Peaceful Music</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=qkiICTC2amM"/>
+  <author>
+   <name>BGM channel</name>
+   <uri>https://www.youtube.com/channel/UCQINXHZqCU5i06HzxRkujfg</uri>
+  </author>
+  <published>2018-07-27T22:55:39+00:00</published>
+  <updated>2018-08-14T13:23:24+00:00</updated>
+  <media:group>
+   <media:title>Chill Out Guitar Music - Relaxing Music - Morning Music - Peaceful Music</media:title>
+   <media:content url="https://www.youtube.com/v/qkiICTC2amM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/qkiICTC2amM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Please Subscribe
+Cafe Music BGM channel
+https://www.youtube.com/user/cafemusicbgmchannel
+BGM channel
+https://www.youtube.com/user/bgmchannelbgm
+
+Music For Business「Cafe Music BGM Station」
+JAPANEASE / https://bgm-station.com
+English / https://bgm-station.com/en
+繁體中文 / https://bgm-station.com/tc/
+Español / https://bgm-station.com/es/
+한국어 / https://bgm-station.com/ko/
+You can use this music at your restaurants,shops,hospitals,offices,part­ies etc..
+
+〜New Release(iTunes)〜
+https://itunes.apple.com/jp/album/good-morning-music/1331571951
+〜Spotify〜
+https://open.spotify.com/album/6XZCk3Ot8eQa3OYxFIdjGD
+
+Our Music for relaxation, for work, for study etc.
+All music in this video &amp; in this channel is original music by me.
+
+We are playing all the songs.
+
+~iTunes~
+Jazz Bossa
+https://itunes.apple.com/jp/album/coffee-shop-music-jazz-bossa/id1068050505
+https://itunes.apple.com/jp/album/happy-jazz-bossa/id1028904334
+BGM channel
+https://itunes.apple.com/jp/album/yu-yin2-ep/id954262715
+PIANO MUSIC
+https://itunes.apple.com/jp/album/background-piano-music-ep/id835673684
+
+~Official web site~
+http://www.bgmchannel.com/
+
+~Contact ~
+For business inquiries (live music&amp;creating music for your business), contact us via contact form in website
+
+
+facebook
+https://www.facebook.com/bgmchannelbgm/?ref=hl
+
+Music is Copyrighted.
+
+#Relax
+#Chillout
+#GuitarMusic
+
+
+
+#作業用BGM #勉強用BGM #癒しBGM</media:description>
+   <media:community>
+    <media:starRating count="193" average="4.79" min="1" max="5"/>
+    <media:statistics views="14882"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:LANsZpYG2GM</id>
+  <yt:videoId>LANsZpYG2GM</yt:videoId>
+  <yt:channelId>UCQINXHZqCU5i06HzxRkujfg</yt:channelId>
+  <title>Chill Out Piano Music - Relaxing Piano Music - Background Piano Music</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=LANsZpYG2GM"/>
+  <author>
+   <name>BGM channel</name>
+   <uri>https://www.youtube.com/channel/UCQINXHZqCU5i06HzxRkujfg</uri>
+  </author>
+  <published>2018-07-26T08:46:25+00:00</published>
+  <updated>2018-08-14T14:25:56+00:00</updated>
+  <media:group>
+   <media:title>Chill Out Piano Music - Relaxing Piano Music - Background Piano Music</media:title>
+   <media:content url="https://www.youtube.com/v/LANsZpYG2GM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/LANsZpYG2GM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Please Subscribe
+Cafe Music BGM channel
+https://www.youtube.com/user/cafemusicbgmchannel
+BGM channel
+https://www.youtube.com/user/bgmchannelbgm
+
+Music For Business「Cafe Music BGM Station」
+JAPANEASE / https://bgm-station.com
+English / https://bgm-station.com/en
+繁體中文 / https://bgm-station.com/tc/
+Español / https://bgm-station.com/es/
+한국어 / https://bgm-station.com/ko/
+You can use this music at your restaurants,shops,hospitals,offices,part­ies etc..
+
+〜New Release(iTunes)〜
+https://itunes.apple.com/jp/album/good-morning-music/1331571951
+〜Spotify〜
+https://open.spotify.com/album/6XZCk3Ot8eQa3OYxFIdjGD
+
+Our Music for relaxation, for work, for study etc.
+All music in this video &amp; in this channel is original music by me.
+
+We are playing all the songs.
+
+~iTunes~
+Jazz Bossa
+https://itunes.apple.com/jp/album/coffee-shop-music-jazz-bossa/id1068050505
+https://itunes.apple.com/jp/album/happy-jazz-bossa/id1028904334
+BGM channel
+https://itunes.apple.com/jp/album/yu-yin2-ep/id954262715
+PIANO MUSIC
+https://itunes.apple.com/jp/album/background-piano-music-ep/id835673684
+
+~Official web site~
+http://www.bgmchannel.com/
+
+~Contact ~
+For business inquiries (live music&amp;creating music for your business), contact us via contact form in website
+
+
+facebook
+https://www.facebook.com/bgmchannelbgm/?ref=hl
+
+Music is Copyrighted.
+
+
+
+#作業用BGM #勉強用BGM #癒しBGM</media:description>
+   <media:community>
+    <media:starRating count="371" average="4.81" min="1" max="5"/>
+    <media:statistics views="43491"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:5tUPH3CrY0A</id>
+  <yt:videoId>5tUPH3CrY0A</yt:videoId>
+  <yt:channelId>UCQINXHZqCU5i06HzxRkujfg</yt:channelId>
+  <title>Cafe Music - Coffee Music - Jazz &amp; Bossa Nova Music For Relax, Study, Work</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=5tUPH3CrY0A"/>
+  <author>
+   <name>BGM channel</name>
+   <uri>https://www.youtube.com/channel/UCQINXHZqCU5i06HzxRkujfg</uri>
+  </author>
+  <published>2018-07-25T12:17:38+00:00</published>
+  <updated>2018-08-13T08:07:56+00:00</updated>
+  <media:group>
+   <media:title>Cafe Music - Coffee Music - Jazz &amp; Bossa Nova Music For Relax, Study, Work</media:title>
+   <media:content url="https://www.youtube.com/v/5tUPH3CrY0A?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/5tUPH3CrY0A/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Please Subscribe
+Cafe Music BGM channel
+https://www.youtube.com/user/cafemusicbgmchannel
+BGM channel
+https://www.youtube.com/user/bgmchannelbgm
+
+Music For Business「Cafe Music BGM Station」
+JAPANEASE / https://bgm-station.com
+English / https://bgm-station.com/en
+繁體中文 / https://bgm-station.com/tc/
+Español / https://bgm-station.com/es/
+한국어 / https://bgm-station.com/ko/
+You can use this music at your restaurants,shops,hospitals,offices,part­ies etc..
+
+〜New Release(iTunes)〜
+https://itunes.apple.com/jp/album/good-morning-music/1331571951
+〜Spotify〜
+https://open.spotify.com/album/6XZCk3Ot8eQa3OYxFIdjGD
+
+Our Music for relaxation, for work, for study etc.
+All music in this video &amp; in this channel is original music by me.
+
+We are playing all the songs.
+
+~iTunes~
+Jazz Bossa
+https://itunes.apple.com/jp/album/coffee-shop-music-jazz-bossa/id1068050505
+https://itunes.apple.com/jp/album/happy-jazz-bossa/id1028904334
+BGM channel
+https://itunes.apple.com/jp/album/yu-yin2-ep/id954262715
+PIANO MUSIC
+https://itunes.apple.com/jp/album/background-piano-music-ep/id835673684
+
+~Official web site~
+http://www.bgmchannel.com/
+
+~Contact ~
+For business inquiries (live music&amp;creating music for your business), contact us via contact form in website
+
+
+facebook
+https://www.facebook.com/bgmchannelbgm/?ref=hl
+
+Music is Copyrighted.
+
+
+
+#作業用BGM #勉強用BGM #癒しBGM</media:description>
+   <media:community>
+    <media:starRating count="97" average="4.75" min="1" max="5"/>
+    <media:statistics views="7325"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:CsB0RIwIAEs</id>
+  <yt:videoId>CsB0RIwIAEs</yt:videoId>
+  <yt:channelId>UCQINXHZqCU5i06HzxRkujfg</yt:channelId>
+  <title>Relaxing Music - Guitar &amp; Piano Music - Peaceful Music For Work, Study</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=CsB0RIwIAEs"/>
+  <author>
+   <name>BGM channel</name>
+   <uri>https://www.youtube.com/channel/UCQINXHZqCU5i06HzxRkujfg</uri>
+  </author>
+  <published>2018-07-23T05:38:27+00:00</published>
+  <updated>2018-08-13T13:44:35+00:00</updated>
+  <media:group>
+   <media:title>Relaxing Music - Guitar &amp; Piano Music - Peaceful Music For Work, Study</media:title>
+   <media:content url="https://www.youtube.com/v/CsB0RIwIAEs?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/CsB0RIwIAEs/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Please Subscribe
+Cafe Music BGM channel
+https://www.youtube.com/user/cafemusicbgmchannel
+BGM channel
+https://www.youtube.com/user/bgmchannelbgm
+
+Music For Business「Cafe Music BGM Station」
+JAPANEASE / https://bgm-station.com
+English / https://bgm-station.com/en
+繁體中文 / https://bgm-station.com/tc/
+Español / https://bgm-station.com/es/
+한국어 / https://bgm-station.com/ko/
+You can use this music at your restaurants,shops,hospitals,offices,part­ies etc..
+
+〜New Release(iTunes)〜
+https://itunes.apple.com/jp/album/good-morning-music/1331571951
+〜Spotify〜
+https://open.spotify.com/album/6XZCk3Ot8eQa3OYxFIdjGD
+
+Our Music for relaxation, for work, for study etc.
+All music in this video &amp; in this channel is original music by me.
+
+We are playing all the songs.
+
+~iTunes~
+Jazz Bossa
+https://itunes.apple.com/jp/album/coffee-shop-music-jazz-bossa/id1068050505
+https://itunes.apple.com/jp/album/happy-jazz-bossa/id1028904334
+BGM channel
+https://itunes.apple.com/jp/album/yu-yin2-ep/id954262715
+PIANO MUSIC
+https://itunes.apple.com/jp/album/background-piano-music-ep/id835673684
+
+~Official web site~
+http://www.bgmchannel.com/
+
+~Contact ~
+For business inquiries (live music&amp;creating music for your business), contact us via contact form in website
+
+
+facebook
+https://www.facebook.com/bgmchannelbgm/?ref=hl
+
+Music is Copyrighted.
+
+
+
+#作業用BGM #勉強用BGM #癒しBGM</media:description>
+   <media:community>
+    <media:starRating count="143" average="4.66" min="1" max="5"/>
+    <media:statistics views="16833"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:omgmyT7Tpi4</id>
+  <yt:videoId>omgmyT7Tpi4</yt:videoId>
+  <yt:channelId>UCQINXHZqCU5i06HzxRkujfg</yt:channelId>
+  <title>Sleep Piano Music - Peaceful Music - Relaxing Music - Background Music</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=omgmyT7Tpi4"/>
+  <author>
+   <name>BGM channel</name>
+   <uri>https://www.youtube.com/channel/UCQINXHZqCU5i06HzxRkujfg</uri>
+  </author>
+  <published>2018-07-21T07:04:58+00:00</published>
+  <updated>2018-08-13T03:30:26+00:00</updated>
+  <media:group>
+   <media:title>Sleep Piano Music - Peaceful Music - Relaxing Music - Background Music</media:title>
+   <media:content url="https://www.youtube.com/v/omgmyT7Tpi4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/omgmyT7Tpi4/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Please Subscribe
+Cafe Music BGM channel
+https://www.youtube.com/user/cafemusicbgmchannel
+BGM channel
+https://www.youtube.com/user/bgmchannelbgm
+
+Music For Business「Cafe Music BGM Station」
+JAPANEASE / https://bgm-station.com
+English / https://bgm-station.com/en
+繁體中文 / https://bgm-station.com/tc/
+Español / https://bgm-station.com/es/
+한국어 / https://bgm-station.com/ko/
+You can use this music at your restaurants,shops,hospitals,offices,part­ies etc..
+
+〜New Release(iTunes)〜
+https://itunes.apple.com/jp/album/good-morning-music/1331571951
+〜Spotify〜
+https://open.spotify.com/album/6XZCk3Ot8eQa3OYxFIdjGD
+
+Our Music for relaxation, for work, for study etc.
+All music in this video &amp; in this channel is original music by me.
+
+We are playing all the songs.
+
+~iTunes~
+Jazz Bossa
+https://itunes.apple.com/jp/album/coffee-shop-music-jazz-bossa/id1068050505
+https://itunes.apple.com/jp/album/happy-jazz-bossa/id1028904334
+BGM channel
+https://itunes.apple.com/jp/album/yu-yin2-ep/id954262715
+PIANO MUSIC
+https://itunes.apple.com/jp/album/background-piano-music-ep/id835673684
+
+~Official web site~
+http://www.bgmchannel.com/
+
+~Contact ~
+For business inquiries (live music&amp;creating music for your business), contact us via contact form in website
+
+
+facebook
+https://www.facebook.com/bgmchannelbgm/?ref=hl
+
+Music is Copyrighted.
+
+
+
+#作業用BGM #勉強用BGM #癒しBGM</media:description>
+   <media:community>
+    <media:starRating count="88" average="4.45" min="1" max="5"/>
+    <media:statistics views="6674"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:gv8YAolfMw4</id>
+  <yt:videoId>gv8YAolfMw4</yt:videoId>
+  <yt:channelId>UCQINXHZqCU5i06HzxRkujfg</yt:channelId>
+  <title>Summer Piano Music - Relaxing Piano Music - Peaceful Music For Work, Study</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=gv8YAolfMw4"/>
+  <author>
+   <name>BGM channel</name>
+   <uri>https://www.youtube.com/channel/UCQINXHZqCU5i06HzxRkujfg</uri>
+  </author>
+  <published>2018-07-19T07:03:27+00:00</published>
+  <updated>2018-08-14T12:32:13+00:00</updated>
+  <media:group>
+   <media:title>Summer Piano Music - Relaxing Piano Music - Peaceful Music For Work, Study</media:title>
+   <media:content url="https://www.youtube.com/v/gv8YAolfMw4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/gv8YAolfMw4/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Please Subscribe
+Cafe Music BGM channel
+https://www.youtube.com/user/cafemusicbgmchannel
+BGM channel
+https://www.youtube.com/user/bgmchannelbgm
+
+Music For Business「Cafe Music BGM Station」
+JAPANEASE / https://bgm-station.com
+English / https://bgm-station.com/en
+繁體中文 / https://bgm-station.com/tc/
+Español / https://bgm-station.com/es/
+한국어 / https://bgm-station.com/ko/
+You can use this music at your restaurants,shops,hospitals,offices,part­ies etc..
+
+〜New Release(iTunes)〜
+https://itunes.apple.com/jp/album/good-morning-music/1331571951
+〜Spotify〜
+https://open.spotify.com/album/6XZCk3Ot8eQa3OYxFIdjGD
+
+Our Music for relaxation, for work, for study etc.
+All music in this video &amp; in this channel is original music by me.
+
+We are playing all the songs.
+
+~iTunes~
+Jazz Bossa
+https://itunes.apple.com/jp/album/coffee-shop-music-jazz-bossa/id1068050505
+https://itunes.apple.com/jp/album/happy-jazz-bossa/id1028904334
+BGM channel
+https://itunes.apple.com/jp/album/yu-yin2-ep/id954262715
+PIANO MUSIC
+https://itunes.apple.com/jp/album/background-piano-music-ep/id835673684
+
+~Official web site~
+http://www.bgmchannel.com/
+
+~Contact ~
+For business inquiries (live music&amp;creating music for your business), contact us via contact form in website
+
+
+facebook
+https://www.facebook.com/bgmchannelbgm/?ref=hl
+
+Music is Copyrighted.
+
+
+
+#作業用BGM #勉強用BGM #癒しBGM</media:description>
+   <media:community>
+    <media:starRating count="384" average="4.70" min="1" max="5"/>
+    <media:statistics views="64567"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

@@ -53,7 +53,7 @@ $("#recentVideo").attr("src", videoUrl).attr('src', function (i, val) {
 });
 
 $.ajax({
-    url: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCQINXHZqCU5i06HzxRkujfg', // 읽어올 문서
+    url: './xml/video.xml', // 읽어올 문서
     type: 'GET', // 방식
     dataType: 'xml', // 문서 타입
     timeout: 1000, // 시간 설정

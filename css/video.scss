@@ -91,6 +91,23 @@
     position: relative;
     width: 402px;
 
+    h6 {
+        font-size: .75rem;
+        display: inline-block;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: normal;
+        line-height: 1.1;
+        height: 2.2em;
+        text-align: left;
+        word-wrap: break-word;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+
+        margin-top: 1em;
+    }
     h6,p{
         color: $baseColor;
     }

@@ -13,7 +13,7 @@
 }
 
 #contents .thumbnail img {
-  width: 50px;
+  width: 50px !important;
 }
 
 #contents #videoInfo {
@@ -24,4 +24,49 @@
 #contents #videoTxt {
   border-top: 1px solid #232323;
   padding-top: 1em;
+}
+
+#recommenList {
+  color: #fff;
+}
+
+#recommenList .thumbnail img {
+  width: 168px;
+  height: 94px;
+}
+
+#recommenList .switch p {
+  position: relative;
+  top: .4rem;
+  left: -65px;
+}
+
+#recommenList .switch label {
+  position: relative;
+  top: -2rem;
+}
+
+#recommenList .recommenDetail h6 {
+  font-size: .75rem;
+  display: inline-block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: normal;
+  line-height: 1.1;
+  height: 2.2em;
+  text-align: left;
+  word-wrap: break-word;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  margin-top: 1em;
+}
+
+#recommenList .recommenDetail a {
+  color: #00adee;
+}
+
+#recommenList .recommenDetail a, #recommenList .recommenDetail p {
+  font-size: 0.75rem;
 }

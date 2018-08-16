@@ -22,3 +22,32 @@ let videoUrl = "https://www.youtube.com/embed/" + getParameters('v');
 $("#recentVideo").attr("src", videoUrl).attr('src', function (i, val) {
     return val;
 });
+
+$.ajax({
+    url: '../xml/video.xml', // 읽어올 문서
+    type: 'GET', // 방식
+    dataType: 'xml', // 문서 타입
+    timeout: 1000, // 시간 설정
+    error: function(){ // 로딩 에러시
+        alert('Error loading XML document');
+    },
+    success: function(xml){
+        $i = 0;
+        $(xml).find('entry').each(function(){
+            $i++;
+            if($i>15) return false;
+
+            var title = $(this).find("title").text(); 
+            var author = $(this).find("author").find("name").text();
+            var read = $(this).find("media\\:group").find("media\\:community").find("media\\:starRating").attr("count");
+            var videoId = $(this).find("yt\\:videoId").text();
+    
+            var view_text = '<div class="media-object recommenVideo"><div class="media-object-section"><div class="thumbnail"><a href="video.html?v=' + videoId + '"><img src="https://img.youtube.com/vi/' + videoId + '/sddefault.jpg"></a></div></div><div class="media-object-section recommenDetail"><h6>' + title + '</h6><a href="#">' + author + '</a><p>조회수 ' + read + '회</p></div></div>';            
+
+            $("#loadList").prepend(view_text);
+            
+        });
+
+    }
+
+});

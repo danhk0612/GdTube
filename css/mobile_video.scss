@@ -1,9 +1,7 @@
 @import "basic.scss";
-
 #contents {
     margin: 1rem 0;
     color: $baseColor;
-
     .button {
         color: $baseColor;
         padding: 0.85em 0.25em;
@@ -11,22 +9,64 @@
             padding-right: .5rem;
         }
     }
-
     .thumbnail {
         img {
-            width: 50px;
-        } 
+            width: 50px !important;
+        }
     }
-
     #videoInfo {
         position: relative;
         top: -40px;
-        
     }
     #videoTxt {
         border-top: 1px solid $baseBorderColor;
         padding-top: 1em;
-
-
     }
+}
+
+#recommenList {
+    color: $baseColor;
+    .thumbnail {
+        img {
+            width: 168px;
+            height: 94px;
+        }
+    }
+    .switch {
+        p {
+            position: relative;
+            top: .4rem;
+            left: -65px;
+        }
+        label {
+            position: relative;
+            top: -2rem;
+        }
+    }
+    .recommenDetail {
+        h6 {
+            font-size: .75rem;
+            display: inline-block;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: normal;
+            line-height: 1.1;
+            height: 2.2em;
+            text-align: left;
+            word-wrap: break-word;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+
+            margin-top: 1em;
+        }
+        a {
+            color: $linkColor;
+        }
+        a,p {            
+            font-size: 0.75rem;
+        }
+    }
+
 }

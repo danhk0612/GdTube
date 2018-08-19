@@ -6,7 +6,6 @@
         overflow-x: hidden;
         margin: 1rem auto;
         padding-bottom: 1rem;
-        border-bottom: 1px solid $baseBorderColor;
         position: relative;
 
         &.verySmall {
@@ -62,7 +61,7 @@
         .card {
             width: 210px;
             color: $baseColor;
-            border: none;
+            border: none !important;
             display: inline-block;
             margin: 0 .1rem;
 

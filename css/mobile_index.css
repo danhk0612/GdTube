@@ -3,7 +3,6 @@
   overflow-x: hidden;
   margin: 1rem auto;
   padding-bottom: 1rem;
-  border-bottom: 1px solid #232323;
   position: relative;
 }
 
@@ -62,7 +61,7 @@
 #contents .videoGroup .card {
   width: 210px;
   color: #fff;
-  border: none;
+  border: none !important;
   display: inline-block;
   margin: 0 .1rem;
 }

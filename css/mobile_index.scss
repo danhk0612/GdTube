@@ -61,7 +61,7 @@
         .card {
             width: 210px;
             color: $baseColor;
-            border: 0px solid $baseBgColor;
+            border: 0px none $baseBgColor;
             display: inline-block;
             margin: 0 .1rem;
 

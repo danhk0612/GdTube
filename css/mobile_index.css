@@ -61,7 +61,7 @@
 #contents .videoGroup .card {
   width: 210px;
   color: #fff;
-  border: none !important;
+  border: 0;
   display: inline-block;
   margin: 0 .1rem;
 }

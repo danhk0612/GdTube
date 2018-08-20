@@ -61,7 +61,11 @@
 #contents .videoGroup .card {
   width: 210px;
   color: #fff;
+<<<<<<< HEAD
   border: 0px solid #111111;
+=======
+  border: none !important;
+>>>>>>> parent of ad1bbff... Day21 Finished
   display: inline-block;
   margin: 0 .1rem;
 }

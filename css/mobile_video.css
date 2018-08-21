@@ -12,10 +12,6 @@
   padding-right: .5rem;
 }
 
-#contents .thumbnail img {
-  width: 50px;
-}
-
 #contents #videoInfo {
   position: relative;
   top: -40px;
@@ -26,13 +22,12 @@
   padding-top: 1em;
 }
 
-#recommenList {
-  color: #fff;
+#contents .thumbnail img {
+  width: 50px;
 }
 
-#recommenList .thumbnail img {
-  width: 168px;
-  height: 94px;
+#recommenList {
+  color: #fff;
 }
 
 #recommenList .switch p {
@@ -57,16 +52,19 @@
   height: 2.2em;
   text-align: left;
   word-wrap: break-word;
-  display: -webkit-box;
-  -webkit-line-clamp: 2;
-  -webkit-box-orient: vertical;
   margin-top: 1em;
 }
 
 #recommenList .recommenDetail a {
   color: #00adee;
+  font-size: 0.75rem;
 }
 
-#recommenList .recommenDetail a, #recommenList .recommenDetail p {
+#recommenList .recommenDetail p {
   font-size: 0.75rem;
+}
+
+#recommenList .thumbnail img {
+  width: 168px;
+  height: 94px;
 }

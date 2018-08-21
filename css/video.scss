@@ -1,151 +1,133 @@
 @import "basic.scss";
 
 #contents {
-    margin-top: 2rem;
-    margin-left: 5rem;
-    padding: 0;
-    position: relative;
-
-
-    #recentVideo {
-        padding-bottom: 1rem;
-    }
-
-    #videoInfo {
-        border-bottom: 1px solid $baseBorderColor;
-        width: 100%;
-        height: 42px;
-        position: relative;
-        top: -40px;
-
-        .button {
-            color: $baseColor;
-
-            i {
-                padding-right: .5rem;
-            }
-        }
-    }
-
-    #videoTxt {
-        border-bottom: 1px solid $baseBorderColor;
-        width: 100%;
-        top: -1rem;
-        position: relative;
-
-        & > p {
-            padding-left: 3.5rem;
-            height: 50px;
-            overflow: hidden;
-        }
-    }
-
-    h5, h6, p {
-        color: $baseColor;
-    }
-
-    .thumbnail img {
-        width: 2rem;
-        height: 2rem;
-    }
-
-    .media-object-section {
-        h6, p {
-            font-size: .75rem;
-        }
-    }
-
-    #commentList {
-        .button {
-            color: $baseColor;
-            padding-left: 0rem;
-        }
-
-        .commentOne {
-            padding-bottom: 1rem;
-
-            a {
-                color: $linkColor;
-            }
-
-            span {
-                color: $baseColor;
-                padding-left: .5rem;
-            }
-
-            a, span {
-                font-size: .75rem;
-            }
-
-            p {
-                padding-top: .5rem;
-            }
-        }
-    }
+	margin-top: 2rem;
+	margin-left: 5rem;
+	padding: 0;
+	position: relative;
+	#recentVideo {
+		padding-bottom: 1rem;
+	}
+	#videoInfo {
+		border-bottom: 1px solid $color_log_cabin_approx;
+		width: 100%;
+		height: 42px;
+		position: relative;
+		top: -40px;
+		.button {
+			color: $white;
+			i {
+				padding-right: .5rem;
+			}
+		}
+	}
+	#videoTxt {
+		border-bottom: 1px solid $color_log_cabin_approx;
+		width: 100%;
+		top: -1rem;
+		position: relative;
+		> p {
+			padding-left: 3.5rem;
+			height: 50px;
+			overflow: hidden;
+		}
+	}
+	h5 {
+		color: $white;
+	}
+	h6 {
+		color: $white;
+	}
+	p {
+		color: $white;
+	}
+	.media-object-section {
+		h6 {
+			font-size: .75rem;
+		}
+		p {
+			font-size: .75rem;
+		}
+	}
+	#commentList {
+		.button {
+			color: $white;
+			padding-left: 0;
+		}
+		.commentOne {
+			padding-bottom: 1rem;
+			a {
+				color: $color_cerulean_approx;
+				font-size: .75rem;
+			}
+			span {
+				color: $white;
+				padding-left: .5rem;
+				font-size: .75rem;
+			}
+			p {
+				padding-top: .5rem;
+			}
+		}
+	}
+	.thumbnail img {
+		width: 2rem;
+		height: 2rem;
+	}
 }
-
 #recommenList {
-    margin-top: 2rem;
-    margin-left: 2rem;
-    padding: 0;
-    position: relative;
-    width: 402px;
-
-    h6 {
-        font-size: .75rem;
-        display: inline-block;
-        white-space: nowrap;
-        overflow: hidden;
-        text-overflow: ellipsis;
-        white-space: normal;
-        line-height: 1.1;
-        height: 2.2em;
-        text-align: left;
-        word-wrap: break-word;
-        display: -webkit-box;
-        -webkit-line-clamp: 2;
-        -webkit-box-orient: vertical;
-
-        margin-top: 1em;
-    }
-    h6,p{
-        color: $baseColor;
-    }
-    a {
-        color: $linkColor;
-    }
-    p,a {
-        font-size: .75rem;
-    }
-
-    .switch {
-        position: relative;
-        p {
-            position: relative;
-            top: .3rem;
-            left: -60px;
-        }
-        label {
-            position: relative;
-            top: -2rem;
-        }
-        input:checked ~ .switch-paddle {
-            background: $linkColor;
-        }
-    }
-
-    .recommenVideo {
-        .thumbnail {
-            border: 0;
-        }
-
-        img {
-            width: 168px;
-            height: 95px;
-        }
-
-        .recommenDetail {
-            width: 200px;
-        }
-    }
+	margin-top: 2rem;
+	margin-left: 2rem;
+	padding: 0;
+	position: relative;
+	width: 402px;
+	h6 {
+		font-size: .75rem;
+		display: inline-block;
+		white-space: nowrap;
+		overflow: hidden;
+		text-overflow: ellipsis;
+		white-space: normal;
+		line-height: 1.1;
+		height: 2.2em;
+		text-align: left;
+		word-wrap: break-word;
+		margin-top: 1em;
+		color: $white;
+	}
+	p {
+		color: $white;
+		font-size: .75rem;
+	}
+	a {
+		color: $color_cerulean_approx;
+		font-size: .75rem;
+	}
+	.switch {
+		position: relative;
+		p {
+			position: relative;
+			top: .3rem;
+			left: -60px;
+		}
+		label {
+			position: relative;
+			top: -2rem;
+		}
+		input:checked ~ .switch-paddle {
+			background: $color_cerulean_approx;
+		}
+	}
+	.recommenVideo {
+		.thumbnail {
+			border: 0;
+		}
+		img {
+			width: 168px;
+			height: 95px;
+		}
+		.recommenDetail {
+			width: 200px;
+		}
+	}
 }

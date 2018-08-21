@@ -1,5 +1,5 @@
 function resizeContentBox() {
-    if($("html").width()<=600){
+    if($("html").width()<=550){
         $(".videoGroup").addClass("verySmall"); 
     }else{
         $(".videoGroup").removeClass("verySmall");

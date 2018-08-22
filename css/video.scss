@@ -94,6 +94,9 @@
 		word-wrap: break-word;
 		margin-top: 1em;
 		color: $white;
+		display: -webkit-box;	
+		-webkit-line-clamp: 2;	
+		-webkit-box-orient: vertical;
 	}
 	p {
 		color: $white;

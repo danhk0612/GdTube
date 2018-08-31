@@ -1,8 +1,8 @@
 @import "basic.scss";
-
 .test {
 	color: $color_royal_purple_approx;
 }
+
 #contents .videoGroup {
 	max-width: 1310px;
 	width: 100%;
@@ -17,7 +17,6 @@
 	}
 	span {
 		position: absolute;
-		//Instead of the line below you could use @include border-radius($radius, $vertical-radius)
 		border-radius: 1.5rem;
 		border: 1px solid $black;
 		color: $white;
@@ -57,8 +56,7 @@
 			top: 0;
 			left: 0;
 			right: 0;
-			bottom: 0;
-			//Instead of the line below you could use @include transform($scale, $rotate, $transx, $transy, $skewx, $skewy, $originx, $originy)
+			bottom: 0; //Instead of the line below you could use @include transform($scale, $rotate, $transx, $transy, $skewx, $skewy, $originx, $originy)
 			transform: translate(50%, 50%);
 		}
 		img {
@@ -66,8 +64,7 @@
 			top: 0;
 			left: 0;
 			max-width: 100%;
-			height: auto;
-			//Instead of the line below you could use @include transform($scale, $rotate, $transx, $transy, $skewx, $skewy, $originx, $originy)
+			height: auto; //Instead of the line below you could use @include transform($scale, $rotate, $transx, $transy, $skewx, $skewy, $originx, $originy)
 			transform: translate(-50%, -50%);
 		}
 		h5 {
@@ -81,8 +78,8 @@
 			height: 2.2em;
 			text-align: left;
 			word-wrap: break-word;
-			display: -webkit-box;	
-			-webkit-line-clamp: 2;	
+			display: -webkit-box;
+			-webkit-line-clamp: 2;
 			-webkit-box-orient: vertical;
 		}
 		p {

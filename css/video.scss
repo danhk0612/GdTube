@@ -1,86 +1,108 @@
 @import "basic.scss";
 
 #contents {
-	margin-top: 2rem;
-	margin-left: 5rem;
+	margin: 2rem 1rem 0 5rem;
+
+	@media screen and (max-width: 1023px) {
+		margin: 2rem 1rem;
+	}
+
 	padding: 0;
 	position: relative;
+
 	#recentVideo {
 		padding-bottom: 1rem;
 	}
+
 	#videoInfo {
 		border-bottom: 1px solid $color_log_cabin_approx;
 		width: 100%;
 		height: 42px;
 		position: relative;
 		top: -40px;
+
 		.button {
 			color: $white;
+
 			i {
 				padding-right: .5rem;
 			}
 		}
 	}
+
 	#videoTxt {
 		border-bottom: 1px solid $color_log_cabin_approx;
 		width: 100%;
 		top: -1rem;
 		position: relative;
-		> p {
+
+		>p {
 			padding-left: 3.5rem;
 			height: 50px;
 			overflow: hidden;
 		}
 	}
+
 	h5 {
 		color: $white;
 	}
+
 	h6 {
 		color: $white;
 	}
+
 	p {
 		color: $white;
 	}
+
 	.media-object-section {
 		h6 {
 			font-size: .75rem;
 		}
+
 		p {
 			font-size: .75rem;
 		}
 	}
+
 	#commentList {
 		.button {
 			color: $white;
 			padding-left: 0;
 		}
+
 		.commentOne {
 			padding-bottom: 1rem;
+
 			a {
 				color: $color_cerulean_approx;
 				font-size: .75rem;
 			}
+
 			span {
 				color: $white;
 				padding-left: .5rem;
 				font-size: .75rem;
 			}
+
 			p {
 				padding-top: .5rem;
 			}
 		}
 	}
+
 	.thumbnail img {
 		width: 2rem;
 		height: 2rem;
 	}
 }
+
 #recommenList {
-	margin-top: 2rem;
-	margin-left: 2rem;
+	margin: 2rem 1rem;
 	padding: 0;
 	position: relative;
 	width: 402px;
+
 	h6 {
 		font-size: .75rem;
 		display: inline-block;
@@ -94,41 +116,50 @@
 		word-wrap: break-word;
 		margin-top: 1em;
 		color: $white;
-		display: -webkit-box;	
-		-webkit-line-clamp: 2;	
+		display: -webkit-box;
+		-webkit-line-clamp: 2;
 		-webkit-box-orient: vertical;
 	}
+
 	p {
 		color: $white;
 		font-size: .75rem;
 	}
+
 	a {
 		color: $color_cerulean_approx;
 		font-size: .75rem;
 	}
+
 	.switch {
 		position: relative;
+
 		p {
 			position: relative;
 			top: .3rem;
 			left: -60px;
 		}
+
 		label {
 			position: relative;
 			top: -2rem;
 		}
-		input:checked ~ .switch-paddle {
+
+		input:checked~.switch-paddle {
 			background: $color_cerulean_approx;
 		}
 	}
+
 	.recommenVideo {
 		.thumbnail {
 			border: 0;
 		}
+
 		img {
 			width: 168px;
 			height: 95px;
 		}
+
 		.recommenDetail {
 			width: 200px;
 		}

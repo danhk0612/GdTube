@@ -18,6 +18,8 @@
 
 ## Screenshot
 
+![스크린샷](https://github.com/danhk0612/GdTube/raw/master/img/sample1.jpg) 
+
 ## 주요 내용
 
 ### https://danhk0612.github.io/GdTube/
